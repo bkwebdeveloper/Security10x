@@ -6,4 +6,4 @@ image: "uploads/hacking-img1.jpg"
 tags: ["Security10x News"]
 ---
 
-# Website hacked
+Website hacked
