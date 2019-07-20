@@ -42,7 +42,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Security News"
-  url = "/tags/Security10x News/"
+  url = "/tags/News/"
   weight = 100
 
 [[menu.main]]
