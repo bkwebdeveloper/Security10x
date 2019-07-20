@@ -1,4 +1,4 @@
-baseurl         = "https://security10x.com"
+baseurl         = "https://security10x.com/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
