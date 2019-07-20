@@ -1,0 +1,51 @@
+baseurl         = "https://security10x.com"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Security10x"
+  subtitle    = "Fastest, Shortest & Trusted CyberSecurity News"
+
+  cover       = "uploads/header.jpg"
+  description = "Fastest, Shortest & Trusted CyberSecurity News for Busy Developers, Tech founders & Security Professionals."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "security10x"
+  fbName = "sec10x"
+  linkedinName= "security10x"
+
+  logo = "uploads/logo.png"
+
+  author = "Bablu Kumar"
+  authorAvatar = "uploads/profile-picture.jpg"
+  authorLocation = "New Delhi, India"
+  authorDescription = "CyberSecurity News Writer, Developer, IT Professional"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Security News"
+  url = "/tags/Security10x News/"
+  weight = 100
+
+[[menu.main]]
+  name = "Learn Hacking"
+  url = "/categories/hacking/"
+  weight = 99
