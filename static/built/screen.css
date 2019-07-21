@@ -13,7 +13,7 @@ a,abbr,acronym,address,applet,article,aside,audio,big,blockquote,body,canvas,cap
 
 .site-header:before {
     bottom: 0;
-    background: rgba(0,0,0);
+    background: rgba(0,0,0, 0.18);
 }
 
 .site-description {

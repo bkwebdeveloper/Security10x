@@ -9,7 +9,7 @@ paginate        = 6
   title       = "Security10x"
   subtitle    = "Fastest, Shortest & Trusted CyberSecurity News"
 
-  cover       = "uploads/header.jpg"
+  cover       = "uploads/header.png"
   description = "Fastest, Shortest & Trusted CyberSecurity News for Busy Developers, Tech founders & Security Professionals."
   metaDescription = ""
   googleAnalytics = ""
