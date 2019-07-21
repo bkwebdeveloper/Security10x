@@ -7,7 +7,7 @@ paginate        = 6
 
 [params]
   title       = "Security10x"
-  subtitle    = "Fastest, Shortest & Trusted CyberSecurity News"
+  subtitle    = "Fastest, Shortest & Trusted CyberSecurity News for Busy Developers, Tech founders & Security Professionals."
 
   cover       = "uploads/header.png"
   description = "Fastest, Shortest & Trusted CyberSecurity News for Busy Developers, Tech founders & Security Professionals."
