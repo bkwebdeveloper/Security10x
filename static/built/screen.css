@@ -20,4 +20,10 @@ a,abbr,acronym,address,applet,article,aside,audio,big,blockquote,body,canvas,cap
     font-size: 1.5rem;
     font-weight: 600;
 }
+
+.post-template .kg-card-markdown>p:first-child {
+    font-size: 1em;
+    line-height: 1.5em;
+}
+
 /*# sourceMappingURL=screen.css.map */

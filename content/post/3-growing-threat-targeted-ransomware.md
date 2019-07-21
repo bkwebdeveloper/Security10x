@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Growing Threat Targeted Ransomware"
+date: 2019-07-21T11:11:51+05:30
 draft: true
 image: "uploads/"
 tags: ["Security10x News"]
