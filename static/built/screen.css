@@ -159,6 +159,13 @@ input {
     z-index: 9999;
 }
 
+#center-captcha {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
 /* /////////////////////////////////////////// */
 
 /*# sourceMappingURL=screen.css.map */
