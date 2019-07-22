@@ -23,10 +23,9 @@ title = "Get In Touch"
                 <!-- Message -->
                 <textarea name="message" id="message" class="form textarea"  placeholder="Message"></textarea>
             </div><!-- End Right Inputs -->
-            <div class="relative fullwidth col-xs-12">
-                <div data-netlify-recaptcha></div>
-            </div>
-            <br>
+            
+            <div class="relative fullwidth col-xs-12" data-netlify-recaptcha></div>
+
             <!-- Bottom Submit -->
             <div class="relative fullwidth col-xs-12">
                 <!-- Send Button -->
