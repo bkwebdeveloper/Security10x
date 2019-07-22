@@ -49,3 +49,8 @@ paginate        = 6
   name = "Learn Hacking"
   url = "/categories/hacking/"
   weight = 99
+
+[[menu.main]]
+  name = "Contact us"
+  url = "/contact"
+  weight = 50
