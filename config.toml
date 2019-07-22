@@ -1,7 +1,7 @@
 baseurl         = "https://security10x.com/"
 theme           = "casper-two"
 languageCode    = "en-US"
-disqusShortname = ""
+disqusShortname = "security10x"
 paginate        = 6
 #SectionPagesMenu = "main"
 
