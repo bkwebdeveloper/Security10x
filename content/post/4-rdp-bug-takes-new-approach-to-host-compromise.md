@@ -11,4 +11,4 @@ Most security professionals know they can use Microsoft’s Remote Desktop Proto
 
 A recently discovered RDP vulnerability could silently compromise a host when it connects to a rogue machine, researchers report. CVE-2019-0887, discovered by Eyal Itkin, a vulnerability researcher with Check Point Software Technologies, was classified as Important and patched this month.
 
-Read full story on **[DarkReading](https://www.darkreading.com/risk/rdp-bug-takes-new-approach-to-host-compromise/d/d-id/1335297)**
+Read the full story on **[DarkReading](https://www.darkreading.com/risk/rdp-bug-takes-new-approach-to-host-compromise/d/d-id/1335297)**

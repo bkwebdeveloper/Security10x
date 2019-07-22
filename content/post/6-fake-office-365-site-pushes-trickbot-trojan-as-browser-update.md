@@ -10,4 +10,4 @@ Attackers have created **_a fake Office 365 site that is distributing the TrickB
 
 This fake Office 365 site found by MalwareHunterTeam looks like any site that would normally belong to Microsoft. In fact all of its links point to pages hosted on Microsoft domains. 
 
-Read full story on **[InformationSecurityBuzz](https://www.informationsecuritybuzz.com/expert-comments/fake-office-365-site-pushes-trickbot-trojan-as-browser-update/)**
+Read the full story on **[InformationSecurityBuzz](https://www.informationsecuritybuzz.com/expert-comments/fake-office-365-site-pushes-trickbot-trojan-as-browser-update/)**

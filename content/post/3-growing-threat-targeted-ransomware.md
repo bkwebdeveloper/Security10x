@@ -10,4 +10,4 @@ tags: ["Security10x News"]
 
 A new analysis from Symantec **([PDF](http://images.mktgassets.symantec.com/Web/Symantec/%7Bb464dc43-2ae0-4912-8758-b153d8f278e7%7D_Targeted_Ransomware_2019July.pdf))**, using its own telemetry, shows the extent of the growth in targeted attacks against organizations over the last two years -- and especially since the beginning of this year.
 
-Read full story on **[SecurityWeek](https://www.securityweek.com/growing-threat-targeted-ransomware)**
+Read the full story on **[SecurityWeek](https://www.securityweek.com/growing-threat-targeted-ransomware)**
