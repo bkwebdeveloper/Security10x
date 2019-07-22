@@ -22,8 +22,8 @@ paginate        = 6
 
   logo = "uploads/logo.png"
 
-  author = "Bablu Kumar"
-  authorAvatar = "uploads/profile-picture.jpg"
+  author = "Security10x Author"
+  authorAvatar = "uploads/"
   authorLocation = "New Delhi, India"
   authorDescription = "CyberSecurity News Writer, Developer, IT Professional"
 
