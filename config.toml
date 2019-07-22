@@ -23,7 +23,7 @@ paginate        = 6
   logo = "uploads/logo.png"
 
   author = "Security10x Author"
-  authorAvatar = "uploads/Security10X.png"
+  authorAvatar = "uploads/profile.png"
   authorLocation = "New Delhi, India"
   authorDescription = "CyberSecurity News Writer, Developer, IT Professional"
 
