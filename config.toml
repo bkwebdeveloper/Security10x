@@ -11,7 +11,7 @@ paginate        = 6
 
   cover       = "uploads/header.png"
   description = "Fastest, Shortest & Trusted CyberSecurity News for Busy Developers, Tech founders & Security Professionals."
-  metaDescription = ""
+  metaDescription = "Fastest, Shortest & Trusted CyberSecurity News for Busy Developers, Tech founders & Security Professionals"
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
