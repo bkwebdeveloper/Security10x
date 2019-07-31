@@ -4,19 +4,81 @@
   
   <url>
     <loc>https://security10x.com/</loc>
-    <lastmod>2019-07-20T19:58:00+05:30</lastmod>
+    <lastmod>2019-07-23T23:40:50+05:30</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://security10x.com/phising-attack/</loc>
-    <lastmod>2019-07-20T19:58:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://security10x.com/post/</loc>
-    <lastmod>2019-07-20T19:58:00+05:30</lastmod>
+    <lastmod>2019-07-23T23:40:50+05:30</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://security10x.com/tags/security10x-news/</loc>
+    <lastmod>2019-07-23T23:40:50+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://security10x.com/tags/</loc>
+    <lastmod>2019-07-23T23:40:50+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://security10x.com/your-androids-accelerometer-could-be-used-to-eavesdrop-on-your-calls/</loc>
+    <lastmod>2019-07-23T23:40:50+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://security10x.com/how-to-keep-your-children-safe-on-their-smartphones/</loc>
+    <lastmod>2019-07-23T23:27:34+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://security10x.com/critical-vulnerability-vlc-no-patch/</loc>
+    <lastmod>2019-07-23T22:07:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://security10x.com/four-questions-organisations-need-to-ask-after-a-cyber-attack/</loc>
+    <lastmod>2019-07-22T15:58:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://security10x.com/digital-signatures-in-pdfs-are-broken/</loc>
+    <lastmod>2019-07-22T15:01:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://security10x.com/fake-office-365-site-pushes-trickbot-trojan-as-browser-update/</loc>
+    <lastmod>2019-07-22T14:36:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://security10x.com/zoom-vulnerability/</loc>
+    <lastmod>2019-07-22T14:01:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://security10x.com/rdp-bug-takes-new-approach-to-host-compromise/</loc>
+    <lastmod>2019-07-22T04:32:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://security10x.com/the-growing-threat-targeted-ransomware/</loc>
+    <lastmod>2019-07-21T11:11:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://security10x.com/nvidias-tegra-chipset-attack/</loc>
+    <lastmod>2019-07-21T10:40:07+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://security10x.com/flaw-allows-attackers-to-alter-media-files-sent-via-whatsapp-telegram/</loc>
+    <lastmod>2019-07-21T10:05:23+05:30</lastmod>
   </url>
   
   <url>
@@ -25,8 +87,11 @@
   </url>
   
   <url>
-    <loc>https://security10x.com/tags/</loc>
-    <priority>0</priority>
+    <loc>https://security10x.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://security10x.com/thankyou/</loc>
   </url>
   
 </urlset>
