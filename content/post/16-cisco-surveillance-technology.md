@@ -14,4 +14,4 @@ Cisco Video Surveillance Manager (VSM) suite allows customers to manage multiple
 
 A security consultant reported vulnerabilities in Cisco’s Video Surveillance Manager in 2009 – but the company ignored the issues and fired the consultant.
 
-Read the full story on **[SCMagazine](https://www.scmagazine.com/home/security-news/vulnerabilities/flaw-allows-attackers-to-alter-media-files-sent-via-whatsapp-telegram-say-researchers/)**.
+Read the full story on **[TheHackerNews](https://thehackernews.com/2019/08/cisco-surveillance-technology.html)**.
