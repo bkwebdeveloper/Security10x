@@ -47,7 +47,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Learn Hacking"
-  url = "/categories/hacking/"
+  url = "/categories/Learn Hacking/"
   weight = 99
 
 [[menu.main]]
