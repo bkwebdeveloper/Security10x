@@ -1,8 +1,8 @@
 ---
-title: "22 How Securely Delete Files in Windows 10"
+title: "How Securely Delete Files in Windows"
 date: 2019-08-07T12:32:36+05:30
-draft: true
-image: "uploads/"
+draft: false
+image: "uploads/how-to-securely-delete-files-in-windows-10_thumb800.jpg"
 tags: ["Security10x News"]
 ---
 
@@ -12,9 +12,12 @@ Not many people know this, but Windows has its own built-in secure deletion tool
 
 To run Cipher, launch PowerShell (which has replaced Command Prompt) by right-clicking on the Start menu and choosing Windows PowerShell from the menu.
 
-Now type the following:
+Now type the following: `cipher /w:C:`
+![how_to_securely_delete_files_in_windows_10-cipher](https://security10x.com/uploads/cipher.jpg)
+This can take a very long time, so if you want to speed things up, you can specify the exact folder where you want ciper to operate by typing the full path.
 
-`cipher /w:C:`
+For example, if you wanted to securely erase everything which has already been deleted in your Documents folder, you need type in its location as follows: `Cipher /w:C:\Users\Jim\Documents`
 
-[](https://security10x.com/uploads/cipher.jpg)
-Read the full story on **[SCMagazine](https://www.scmagazine.com/home/security-news/vulnerabilities/flaw-allows-attackers-to-alter-media-files-sent-via-whatsapp-telegram-say-researchers/)**.
+You can also use a free, open-source tool [Eraser](https://eraser.heidi.ie/download/).
+
+Read the full story on **[TechAdvisor](https://www.techadvisor.co.uk/how-to/windows/how-securely-delete-files-in-windows-10-3675546/)**.
