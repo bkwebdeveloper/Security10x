@@ -3,7 +3,7 @@ title: "Build Successful Infosec Career"
 date: 2019-08-04T12:13:59+05:30
 draft: false
 image: "uploads/cybersecurity.jpg"
-tags: ["Security10x News", "Hacking"]
+tags: ["Hacking"]
 categories: ["Learn Hacking"]
 ---
 
