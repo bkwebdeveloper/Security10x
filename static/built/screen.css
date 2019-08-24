@@ -162,4 +162,8 @@ input {
 
 /* /////////////////////////////////////////// */
 
+.pagination a {
+  color: #15171a !important;
+}
+
 /*# sourceMappingURL=screen.css.map */
