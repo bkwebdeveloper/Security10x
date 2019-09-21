@@ -46,9 +46,14 @@ paginate        = 6
   weight = 100
 
 [[menu.main]]
+  name = "Learn Linux"
+  url = "/categories/system-adminstrator/"
+  weight = 99
+
+[[menu.main]]
   name = "Learn Hacking"
   url = "/categories/Learn Hacking/"
-  weight = 99
+  weight = 98
 
 [[menu.main]]
   name = "Contact us"
