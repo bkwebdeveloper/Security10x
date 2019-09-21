@@ -3,7 +3,8 @@ title: "How Securely Delete Files in Windows"
 date: 2019-08-07T12:32:36+05:30
 draft: false
 image: "uploads/how-to-securely-delete-files-in-windows-10_thumb800.jpg"
-tags: ["Learn Hacking"]
+tags: ["Windows"]
+categories: ["System adminstrator", "Windows"]
 ---
 
 When you delete a file, it isn't really gone. So if you want to make sure your private data gets deleted for good in Windows, here's how to erase it permanently.
