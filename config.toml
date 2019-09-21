@@ -23,9 +23,9 @@ paginate        = 6
   logo = "uploads/logo.png"
 
   author = "Security10x Author"
-  authorAvatar = "uploads/profile.png"
+  authorAvatar = "uploads/bablu.png"
   authorLocation = "New Delhi, India"
-  authorDescription = "CyberSecurity News Writer, Developer, IT Professional"
+  authorDescription = "He writes about cyber security, Python, and Linux."
 
   pageNotFoundTitle = "404 - Page not found"
 
