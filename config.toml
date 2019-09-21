@@ -7,11 +7,11 @@ paginate        = 6
 
 [params]
   title       = "Security10x"
-  subtitle    = "Fastest, Shortest & Trusted CyberSecurity News for Busy Developers, Tech founders & Security Professionals."
+  subtitle    = "Learn The Art of Hacking - Cyber Security, Linux, Windows"
 
   cover       = "uploads/header.png"
-  description = "Fastest, Shortest & Trusted CyberSecurity News for Busy Developers, Tech founders & Security Professionals."
-  metaDescription = "Fastest, Shortest & Trusted CyberSecurity News for Busy Developers, Tech founders & Security Professionals"
+  description = "Learn The Art of Hacking - Cyber Security, Linux, Windows"
+  metaDescription = "Learn The Art of Hacking - Cyber Security, Linux, Windows"
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
