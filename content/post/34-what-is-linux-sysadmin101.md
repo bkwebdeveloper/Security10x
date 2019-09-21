@@ -27,8 +27,3 @@ In the modern datacenter, Linux and Microsoft Windows are the major players, and
 - If you're working with mobile applications or the Internet of Things (IoT), the chances are great that the operating system of your device will be based on Linux.
 
 - If you're looking for new opportunities in IT, Linux skills are in high demand.
-
-
-
-Read the full story on **[SCMagazine](https://www.scmagazine.com/home/security-news/vulnerabilities/flaw-allows-attackers-to-alter-media-files-sent-via-whatsapp-telegram-say-researchers/)**.
-
