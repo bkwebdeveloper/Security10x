@@ -1,7 +1,7 @@
 ---
 title: "What Is Linux - Sysadmin101"
 date: 2019-09-21T20:52:11+05:30
-draft: true
+draft: false
 image: "uploads/"
 tags: ["Linux", "Ubuntu", "CentOS"]
 categories: ["System"]
