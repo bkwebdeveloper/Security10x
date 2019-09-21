@@ -4,7 +4,7 @@ date: 2019-09-21T20:52:11+05:30
 draft: false
 image: "uploads/what-is-linux.png"
 tags: ["Linux", "Ubuntu", "CentOS"]
-categories: ["System"]
+categories: ["System adminstrator"]
 ---
 
 **What is Linux?**
