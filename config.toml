@@ -25,7 +25,7 @@ paginate        = 6
   author = "Bablu Kumar"
   authorAvatar = "uploads/bablu.png"
   authorLocation = "New Delhi, India"
-  authorDescription = "He writes about cyber security, Python, and Linux."
+  authorDescription = "He writes about cyber security, Python, and Linux. He is an open-source enthusiast."
 
   pageNotFoundTitle = "404 - Page not found"
 
