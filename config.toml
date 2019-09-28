@@ -41,8 +41,8 @@ paginate        = 6
   weight = 200
 
 [[menu.main]]
-  name = "Security News"
-  url = "/tags/Security10x News/"
+  name = "Learn Hacking"
+  url = "/categories/Learn Hacking/"
   weight = 100
 
 [[menu.main]]
@@ -51,8 +51,8 @@ paginate        = 6
   weight = 99
 
 [[menu.main]]
-  name = "Learn Hacking"
-  url = "/categories/Learn Hacking/"
+  name = "Security News"
+  url = "/tags/Security10x News/"
   weight = 98
 
 [[menu.main]]
