@@ -7,7 +7,13 @@ tags: ["Hacking"]
 categories: ["Learn Hacking"]
 ---
 
-**Information Security** is an advanced discipline, meaning you should ideally be good at some other area of tech before entering it. This isn’t required, but it’s common and it’s ideal. The three areas that infosec people normally come from are:
+- [Information Security](#information-security)
+- [Best Courses](#best-courses)
+
+
+
+# Information Security
+This is an advanced discipline, meaning you should ideally be good at some other area of tech before entering it. This isn’t required, but it’s common and it’s ideal. The three areas that infosec people normally come from are:
 
 1. System Administration
 2. Networking
@@ -28,7 +34,7 @@ You can use the certification study books as teaching guides. They’re quite go
 
 Read the full story on **[DanielMiessler](http://danielmiessler.com/blog/build-successful-infosec-career/)**.
 
-**Best CyberSecurity Courses/Specialization for Beginners from Top Universities in 2019**: 
+# Best Courses
 
 1. [Cybersecurity from RIT (Edx)](https://www.edx.org/micromasters/ritx-cybersecurity)
 
