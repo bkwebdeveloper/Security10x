@@ -75,6 +75,8 @@ This is a curated list of helpful security resources that covers many different 
 
 - [Bug Bounties 101](https://whitton.io/articles/bug-bounties-101-getting-started/)
 
+- [Researcher Resources - Bounty Bug Write Ups](https://security10x.com/researcher-resources-bounty-bug-write-ups/)
+
 - [Verify the output of the tools ](https://sites.google.com/site/bughunteruniversity/improve/verify-the-output-of-the-tools)
 
 - [Tips for Successful Bug Submissions ](https://forum.bugcrowd.com/t/tips-for-successful-bug-submissions/428)
