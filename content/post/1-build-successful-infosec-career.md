@@ -56,7 +56,7 @@ This is a list of resources that can be helpful to researchers that are just get
 
 <b>Step 3) Watch tutorials on YouTube!</b>
 
-[DEFCON Conference videos on YouTube 996](https://www.youtube.com/user/DEFCONConference/videos):
+[DEFCON Conference videos on YouTube](https://www.youtube.com/user/DEFCONConference/videos):
 Watch all of the talks from DEFCON over the years. Very useful resource.
 
 [Hak5 on YouTube](https://www.youtube.com/user/Hak5Darren/playlists):
