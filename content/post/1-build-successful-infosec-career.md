@@ -8,7 +8,7 @@ categories: ["Learn Hacking"]
 ---
 
 - [Information Security](#information-security)
-- [Best Courses](#best-courses)
+- [Good Courses](#best-courses)
 - [Resources](#resources)
 
 
